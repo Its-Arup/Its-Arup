@@ -1,3 +1,7 @@
+<img width="100%" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp">
+<div align="center" margin="auto">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Hey!+It's+Arup+Paul!;Learning+React+Front-end+Development...;" style="width: 90%;">
+</div>
 <h1 align="center">Hi 👋, I'm Arup Paul</h1>
 <h3 align="center">Aspiring full-stack web developer from India</h3>
 
