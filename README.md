@@ -1,4 +1,4 @@
-<img width="100%" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp">
+<img width="100%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 <div align="center" margin="auto">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Hey!+👋+It's+Arup+Paul!;Learning+React+Front-end+Development...;" style="width: 90%;">
 </div>
