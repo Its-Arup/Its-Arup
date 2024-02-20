@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Hey!+👋+It's+Arup+Paul!;A+Full+Stack+Web-Developer...;" style="width: 90%;">
 </div>
 
-<h3 align="center">Aspiring full-stack web developer from India</h3>
+<h3 align="center">Full-stack web developer from India</h3>
 
 # 💫 About Me:
  Passionate and driven aspiring Full-stack Web Developer with a strong skill set in HTML, CSS, JavaScript, REST API, Node.js, React, MongoDB, Express.js, and GitHub. <br>Combining problem-solving prowess with a user-centric approach, I excel at delivering seamless and visually appealing web experiences. <br>With exceptional soft skills in communication and teamwork, I thrive in collaborative environments, consistently exceeding project expectations. <br>As an aspiring full-stack developer, I am committed to continuous learning and leveraging emerging technologies to create innovative web solutions. <br>Let's connect and explore opportunities to make a lasting impact in the world of full-stack web development together!
