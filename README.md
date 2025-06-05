@@ -7,7 +7,7 @@
 <h3 align="center">Full-stack web developer from India</h3>
 
 # 💫 About Me:
- Passionate and driven aspiring Full-stack Web Developer with a strong skill set in HTML, CSS, JavaScript, REST API, Node.js, React, MongoDB, Express.js, and GitHub. <br>Combining problem-solving prowess with a user-centric approach, I excel at delivering seamless and visually appealing web experiences. <br>With exceptional soft skills in communication and teamwork, I thrive in collaborative environments, consistently exceeding project expectations. <br>As an aspiring full-stack developer, I am committed to continuous learning and leveraging emerging technologies to create innovative web solutions. <br>Let's connect and explore opportunities to make a lasting impact in the world of full-stack web development together!
+Full Stack Developer specializing in MERN stack and Blockchain Development with hands-on experience in building scalable web applications and AI-integrated bots. Strong understanding of backend architecture, authentication, and system design. Passionate about building user-centric applications and currently working at The Matrix Lab.
 
 
 ## 🌐 Socials:
