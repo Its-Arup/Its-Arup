@@ -6,7 +6,6 @@
  
 <h3 align="center">Full-stack web developer from India</h3>
 
-
 # 💫 About Me:
 Full Stack Developer specializing in MERN stack and Blockchain Development with hands-on experience in building scalable web applications and AI-integrated bots. Strong understanding of backend architecture, authentication, and system design. Passionate about building user-centric applications and currently working at The Matrix Lab.
 
