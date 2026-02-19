@@ -8,8 +8,6 @@
 # 💫 About Me:
 Full Stack Developer specializing in MERN stack and Blockchain Development with hands-on experience in building scalable web applications and AI-integrated bots. Strong understanding of backend architecture, authentication, and system design. Passionate about building user-centric applications and currently working at The Matrix Lab.
 
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arup-paul13/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://in.pinterest.com/aruppaul1650/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Its-Arup) 
 
