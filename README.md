@@ -3,7 +3,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Hey!+👋+It's+Arup+Paul!;A+Full+Stack+Web-Developer...;" style="width: 90%;">
 </div>
 
-
  
 <h3 align="center">Full-stack web developer from India</h3>
 
