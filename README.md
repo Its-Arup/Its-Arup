@@ -4,7 +4,6 @@
 </div>
 
 
- 
 <h3 align="center">Full-stack web developer from India</h3>
 
 # 💫 About Me:
